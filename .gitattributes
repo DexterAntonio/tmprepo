@@ -1,0 +1,2 @@
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+/Users/dexter/Code/try2.ipynb filter=lfs diff=lfs merge=lfs -text
